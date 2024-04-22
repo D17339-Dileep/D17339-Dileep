@@ -6,7 +6,7 @@
 
 <p>👨‍ I'm currently working as a NetSuite Developer on the NetSuite Cloud ERP product.</p>
 
-<p>📝 Certi-fived ERP Application Developer & WebServices Developer, possessing NetSuite specific skills in SQL, Advanced Saved Searches, SOAP WebServices, REST WebServices, Workflows, RESTLets and Integration Security.</p>
+<p>📝 I am a Certi-fived ERP Application Developer and WebServices Developer with specialized expertise in NetSuite. My skills include proficiency in SuiteScripts, SOAP WebServices, REST WebServices, Workflows, SQL, Advanced Saved Searches, RESTLets, and Integration within the NetSuite environment.</p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
