@@ -26,6 +26,21 @@
 <a href="https://www.youtube.com/@SweetScriptsStudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sweet scripts studios" height="30" width="40" /></a>
 </p>
 
+ My NetSuite Skills
+- 📜 SuiteScript 1.0, SuiteScript 2.x, SuiteScript 2.1
+- 📜 Refactoring 1.0 SuiteScripts to 2.x / 2.1
+- 📜 WMS (SCM Mobile) Technical Customizations
+- 📃 Suitelets, MR Scripts, Scheduled Scripts, User Event Scripts, Client Scripts, Portlets, RESTlets, SuiteFlow, Custom GL Plugin
+- 🏗 Integrating 3rd party apps using SuiteScript
+- ⚙️ SuiteBundler, SuiteFlows, Suite Builder
+- ⛓ SuiteTalk SOAP Services
+- 🔩 REST WebServices
+- 🗒 Scripted CSV Imports
+- 🔍 Saved Searches / SuiteAnalytics Workbooks / SuiteQL / SuiteAnalytics Connect using JDBC
+- 👁️ SFTP module integration
+- 📄 Advanced PDF/HTML templates
+- 🔩 Electronic Bank Payments
+
 
 
 <h3 align="left">Languages and Tools:</h3>
